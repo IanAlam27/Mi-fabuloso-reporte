@@ -1,0 +1,13 @@
+---
+title: "Mi primer reporte"
+description: "Aquí verás mi primer reporte"
+date: "2026-08-22"
+---
+
+# Primer título
+
+La intención del reporte es manejar textos en markdown
+
+## Sección importante
+
+Aqui podremos er cambios jsjs
