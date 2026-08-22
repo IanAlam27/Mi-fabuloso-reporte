@@ -2,4 +2,4 @@
 title: "El título de mi sitio"
 ---
 
-Este es el sitio web que estoy creando para compartir mis resultados
+Este es el sitio web que estoy creando para compartir mis resultados.
