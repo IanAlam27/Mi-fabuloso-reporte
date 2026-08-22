@@ -9,4 +9,6 @@ Funciona como hemos escruto otros archivos en Markdown o en Quarto
 - Bullets
 
 ### Agregar sub-subsecciones
-Mi increible sub subseccionxd
+Mi increible sub subseccion xd
+
+Podemos agregar *cursivas*
