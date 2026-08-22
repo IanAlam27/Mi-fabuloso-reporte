@@ -4,4 +4,4 @@
 Funciona como hemos escruto otros archivos en Markdown o en Quarto
 
 - Podemos usar bullets
-- 
+- Más bullets xd 
